@@ -3,18 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruno-messias" alt="bruno-messias" /> </p>
 
-- 🔭 I’m currently working on [Learnig RF](https://github.com/Bruno-Messias/EEL7319-Circuitos-RF)
+- 🔭 I’m currently working on [SpaceLab - 3rd CubeDesign](https://spacelab.ufsc.br/en/home/)
 
-- 🌱 I’m currently learning **React, Embedded systems, RF circuits and others!**
-
-- 👯 I’m looking to collaborate on [SpaceLab - 3rd CubeDesign](https://spacelab.ufsc.br/en/home/)
+- 🌱 I’m currently learning **FullStack, Embedded systems, RF circuits and others!**
 
 - 👨‍💻 All of my projects are available at [https://bruno-messias.github.io/Projeto-Site/](https://bruno-messias.github.io/Projeto-Site/)
 
 <!-- - 📝 I regulary write articles on [https://bruno-messias.github.io/Projeto-Site/](https://bruno-messias.github.io/Projeto-Site/) 
 -->
-
-- 📫 How to reach me **brunocmessias@hotmail.com**
 
 - ⚡ Fun fact **I Love Coffe!**
 
