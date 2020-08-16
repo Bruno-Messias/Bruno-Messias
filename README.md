@@ -9,10 +9,7 @@
 
 - 🌱 I’m currently learning **FullStack, Embedded systems, RF circuits and others!**
 
-- 👨‍💻 All of my projects are available at [https://bruno-messias.github.io/Projeto-Site/](https://bruno-messias.github.io/Projeto-Site/)*{Under construction}*
-*
-<!-- - 📝 I regulary write articles on [https://bruno-messias.github.io/Projeto-Site/](https://bruno-messias.github.io/Projeto-Site/) 
--->
+- 💻 All of my projects are available at [https://bruno-messias.github.io/Projeto-Site/](https://bruno-messias.github.io/Projeto-Site/)*{Under construction}*
 
 - ⚡ Fun fact **I Love Coffe!**
 
