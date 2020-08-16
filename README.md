@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **brunocmessias@hotmail.com**
 
-- ⚡ Fun fact **Love Coffe!**
+- ⚡ Fun fact **I Love Coffe!**
 
 ---
 ### Languages and Tools
