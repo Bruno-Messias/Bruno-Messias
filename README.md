@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruno-messias" alt="bruno-messias" /> </p>
 
-- 🔭 I’m currently working on [SpaceLab - 3rd CubeDesign](https://spacelab.ufsc.br/en/home/)
+- 🔭 I’m currently working on  [SpaceLab - 3rd CubeDesign](https://spacelab.ufsc.br/en/home/) :rocket:
 
 - 🌱 I’m currently learning **FullStack, Embedded systems, RF circuits and others!**
 
@@ -21,9 +21,12 @@
 
 ---
 ### Stats
-
-<p><img align="left" src="https://github-readme-stats.bruno-messias.vercel.app/api/top-langs/?username=bruno-messias&layout=compact&hide=html" alt="bruno-messias" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.bruno-messias.vercel.app/api?username=bruno-messias&show_icons=true" alt="bruno-messias" /></p>
+<details>
+  <summary>:books: Most Used Languages</summary>
+    <img align="left" src="https://github-readme-stats.bruno-messias.vercel.app/api/top-langs/?username=bruno-messias&layout=compact&hide=html" alt="bruno-messias" />
+</details>
+<details>
+  <summary>:zap: Github Stats</summary>
+    <img align="center" src="https://github-readme-stats.bruno-messias.vercel.app/api?username=bruno-messias&show_icons=true" alt="bruno-messias" />
+</details>
 
