@@ -22,8 +22,8 @@
 ---
 ### Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-messias&layout=compact&hide=html" alt="bruno-messias" /></p>
+<p><img align="left" src="https://github-readme-stats.bruno-messias.vercel.app/api/top-langs/?username=bruno-messias&layout=compact&hide=html" alt="bruno-messias" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno-messias&show_icons=true" alt="bruno-messias" /></p>
+<p>&nbsp;<img align="center" src="github-readme-stats.bruno-messias.vercel.app/api?username=bruno-messias&show_icons=true" alt="bruno-messias" /></p>
 
