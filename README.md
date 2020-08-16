@@ -11,7 +11,7 @@
 
 - 💻 All of my projects are available at [https://bruno-messias.github.io/Projeto-Site/](https://bruno-messias.github.io/Projeto-Site/)*{Under construction}*
 
-- ⚡ Fun fact **I Love Coffe!**
+- ⚡ Fun fact **I Love Coffe**
 
 ---
 
