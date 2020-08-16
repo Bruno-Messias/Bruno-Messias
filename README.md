@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bruno Messias</h1>
 <h3 align="center">Studying Electronic Engineering in UFSC from Brazil</h3>
 
-<p align="left"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Bruno-Messias?label=Followers&style=social"></p>
+
 <p><img src="https://komarev.com/ghpvc/?username=bruno-messias" alt="bruno-messias" /></p>
+<p align="left"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Bruno-Messias?label=Followers&style=social"></p>
 
 - 🔭 I’m currently working on  [SpaceLab - 3rd CubeDesign](https://spacelab.ufsc.br/en/home/) :rocket:
 
