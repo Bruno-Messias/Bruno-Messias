@@ -23,6 +23,7 @@
 ### Contact with me:
 
 [<img align="left" alt="Bruno-Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Bruno-Outlook | Outlook" width="22px" src="https://simpleicons.org/icons/microsoftoutlook.svg" />][Outlook]
 
 <br>
 
@@ -45,3 +46,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/bruno-messias-4a73a890/
+[Outlook]: brunocmessias@hotmail.com
+
