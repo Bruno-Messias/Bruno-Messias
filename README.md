@@ -16,7 +16,8 @@
 ---
 ### Playing on Spotify 🎧
 
-[<img src="https://novatorem.bruno-messias.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/vit3om65dx2mssssja8mjt7jw)
+[<img src="https://novatorem.bruno-messias.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />]
+<!--(https://open.spotify.com/user/vit3om65dx2mssssja8mjt7jw)-->
 
 ---
 
