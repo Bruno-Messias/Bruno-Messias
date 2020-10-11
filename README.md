@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on  [SpaceLab - 3rd CubeDesign](https://spacelab.ufsc.br/en/home/) :rocket:
 
-- 🌱 I’m currently learning **FullStack, Embedded systems, RF circuits and others!**
+- 🌱 I’m currently learning **Machine Learning, Embedded systems, RF circuits and others!**
 
 - 💻 All of my projects are available at [https://bruno-messias.github.io/Projeto-Site/](https://bruno-messias.github.io/Projeto-Site/)*{Under construction}*
 
