@@ -5,9 +5,9 @@
 <p><img src="https://komarev.com/ghpvc/?username=bruno-messias&" alt="bruno-messias" /></p>
 <p align="left"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Bruno-Messias?label=Followers&style=social"></p>
 
-- 🔭 I’m currently working on  [SpaceLab - 3rd CubeDesign](https://github.com/spacelab-ufsc) :rocket:
+- 🔭 I’m currently working on  [Strattner](https://www.strattner.com.br/)
 
-- 🌱 I’m currently learning **Machine Learning, Embedded systems, RF circuits and others!**
+- 🌱 I’m currently learning **Machine Learning, Embedded systems, IOT systems and others!**
 
 - 💻 All of my projects are available at [https://bruno-messias.github.io/Projeto-Site/](https://bruno-messias.github.io/Projeto-Site/)*{Under construction}*
 
