@@ -19,15 +19,15 @@
 [<img src="https://novatorem.bruno-messias.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/vit3om65dx2mssssja8mjt7jw)
 
 ---
+<!-- 
+### Contact with me: -->
 
-### Contact with me:
-
-[<img align="left" alt="Bruno-Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br><br>
+<!--[<img align="left" alt="Bruno-Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br><br>-->
 <!--<img align="left" alt="Bruno-Outlook | Outlook" width="22px" src="https://simpleicons.org/icons/microsoftoutlook.svg" />brunocmessias@hotmail.com
 <br>
 -->
----
+<!-- --- -->
 
 ### Languages and Tools:
 
