@@ -27,7 +27,6 @@
 <!--<img align="left" alt="Bruno-Outlook | Outlook" width="22px" src="https://simpleicons.org/icons/microsoftoutlook.svg" />brunocmessias@hotmail.com
 <br>
 -->
-<!-- --- -->
 
 ### Languages and Tools:
 
@@ -44,8 +43,3 @@ src="https://img.icons8.com/color/48/000000/git.png"/><img height="32" width="32
   <summary>:zap: Github Stats</summary>
     <img align="center" src="https://github-readme-stats.bruno-messias.vercel.app/api?username=bruno-messias&show_icons=true" alt="bruno-messias" />
 </details>
-
-
-[linkedin]: https://www.linkedin.com/in/bruno-messias-4a73a890/
-[Outlook]: brunocmessias@hotmail.com
-
