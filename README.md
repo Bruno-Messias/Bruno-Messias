@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on  [Strattner](https://www.strattner.com.br/)
 
-- 🌱 I’m currently learning **Machine Learning, Embedded systems, IOT systems and others!**
+- 🌱 I’m currently learning **Deep Learning, Embedded systems, IOT systems and others!**
 
 - 💻 All of my projects are available at [https://bruno-messias.github.io/Projeto-Site/](https://bruno-messias.github.io/Projeto-Site/)*{Under construction}*
 
